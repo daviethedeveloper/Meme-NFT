@@ -1,32 +1,24 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, my goal is to continuously learn and improve my skills by exploring new technologies and working on diverse projects. This allows me to expand my knowledge and become more adaptable in different programming languages and work environments. By taking on challenging projects, I aim to broaden my expertise and stay up-to-date with the latest industry developments.
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
+I wrote an application that allow users to connect to their Phantom wallet using the Solana library in TypeScipt. The Purpose of this project is to get familiar with creating projects on the Solana Blockchain. I want to have the option to become a Solana Developer in my portfolio. 
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/e274c0fffa424de4a385b962df1f377e)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools I used were Typescript and the Solana library in my project. 
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [BuildSpace](https://buildspace.so/p/solana-core)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Mint the actual meme nfts
+- Create a better UI page
